@@ -17,14 +17,14 @@ L'approche repose sur l'analyse des traces techniques et sur la distinction entr
 ```text
 forensic-investigation/
 ├── README.md
-├── forensic_key_1.img
+├── rapport_forensic.pdf
 ├── Hash_forensic_key_1.rtf
-└── rapport_forensic.pdf
+└── .gitignore
 ```
 
 | Fichier | Description |
 |---|---|
-| `forensic_key_1.img` | Image disque utilisée pour l'investigation |
+| `forensic_key_1.img` | Image disque utilisée pour l'investigation (n'est pas incluse dans ce dépôt en raison de sa taille)|
 | `Hash_forensic_key_1.rtf` | Empreinte SHA-256 de référence |
 | `rapport_forensic.pdf` | Rapport détaillé avec captures et résultats |
 | `README.md` | Présentation du projet et de la méthodologie |
