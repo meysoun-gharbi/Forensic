@@ -19,6 +19,7 @@ L'approche repose sur l'analyse des traces techniques et sur la distinction entr
 Forensic/
 ├── forensic_ubs/
 │   └── forensic_key_1.zip
+│   └── Hash_forensic_key_1.rtf
 ├── README.md
 ├── rapport_forensic.pdf
 ├── .gitattributes
